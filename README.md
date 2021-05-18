@@ -1,4 +1,4 @@
-# saskarnote
+# App Note Simple
 
 A new Flutter project.
 
